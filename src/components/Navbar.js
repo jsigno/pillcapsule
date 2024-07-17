@@ -28,7 +28,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to="work" smooth={true} duration={500}>
-            Work
+            Pilosophy
           </Link>
         </li>
         <li>
